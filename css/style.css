@@ -1,0 +1,102 @@
+body {
+	padding-bottom:0px;
+	font-family: 'Open Sans', Arial, Tahoma;
+	color: #363636;
+	background: #ededed;
+	font-size: 16px;
+}
+
+h2{
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.4em;
+	font-size: 1.5em;
+}
+
+.media-left {
+   width: 30%;
+    
+}
+.media {
+	background: #ededed; 
+	padding:10px;
+}
+
+/*primarycolor #3b5a76
+background   #ededed
+text          #363636*/
+
+
+.primary, strong, h2 {
+	color: #3b5a76;
+}
+
+.container-main {
+	background: #fff;
+	margin-top: 80px;
+	padding: 0 30px 30px 30px;
+
+	
+}
+.row {
+	margin-bottom: 20px;
+}
+
+
+header {
+	min-height: 100px;
+	overflow: auto;
+}
+header h1{
+	margin: 0;
+	padding: 20px 0 0 0;
+	font-size: 2.2em;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: -1px;
+	line-height: 1.4em;
+}
+
+.profile-img {
+	width: 160px;
+	display: block;
+	margin:auto;
+	margin-top:-80px;
+}
+.line {
+   max-width: 100%
+}
+
+.contact-list {
+	margin:0;
+	padding:0;
+}
+.contact-list li{
+	list-style: none;
+	font-weight: bold;
+    line-height: 3.2em;
+}
+.contact-list span {
+	display: block;
+	margin:0;
+	padding:0;
+	line-height: 0.1em;
+	margin-left:37px;
+	font-size: 15px;
+	color:#ccc;
+}
+
+.work-list li{
+list-style: none;
+float: left;
+padding: 0 10px 10px 0;
+}
+
+footer {
+	background: #3b5a76;
+	color:#fff;
+	padding-top:20px;
+	padding-bottom: 20px:;
+	text-align: center;
+}
